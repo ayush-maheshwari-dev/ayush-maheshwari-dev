@@ -1,4 +1,4 @@
-v# Hi 👋, I'm Ayush Maheshwari  
+# Hi 👋, I'm Ayush Maheshwari  
 
 💻 Passionate Java Developer from India  
 🌱 Currently exploring **Spring Boot, React, and full-stack development**  
