@@ -42,37 +42,3 @@ I'm a working professional exploring how large language models and autonomous ag
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📌 Featured work
-
-<!-- Replace these with your real projects. Even small ones count. -->
-- **[Project Name]** — one line on what it does and the problem it solves. `→ [repo link]`
-- **[Project Name]** — one line on what it does and what you learned building it. `→ [repo link]`
-
----
-
-### 📫 Get in touch
-
-- 🌐 Portfolio: [your-website.com]
-- 💼 LinkedIn: [linkedin.com/in/your-handle]
-- 🐦 X / Twitter: [@your-handle]
-- 📧 Email: [you@email.com]
-
----
-
-<!-- GitHub stats — these auto-update. Replace the username if you change it. -->
-<div align="center">
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-maheshwari-dev&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-maheshwari-dev&layout=compact&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-<i>Always open to interesting conversations about AI, agents, and building things that work.</i>
-</div>
